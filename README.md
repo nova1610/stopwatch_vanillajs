@@ -1,6 +1,6 @@
 # Stopwatch VanillaJS <br>
 ## Links: <br>
-Video Explanation Link  - link <br>
+Video Explanation Link  - https://youtu.be/6cdpJKng1XU <br>
 GitHub Repo Link - https://github.com/nova1610/stopwatch_vanillajs/ <br>
 Live Link - https://nova1610.github.io/stopwatch_vanillajs/ <br>
 
